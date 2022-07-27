@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:23:09	860/860	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2027%20Jul%202022%2005:53:08%20GMT	https://osintframework.com/robots.txt		(from )
+11:23:09	1953/1953	---MCZ	200	added ('OK')	text/html	date:Thu,%2002%20Mar%202017%2000:20:31%20GMT	https://osintframework.com/	F:/RAIHAN/HASSAN%20A/ONT%20FRAMEWORK/osintframework.com/index.html	(from )
+11:23:10	596/596	---M-Z	200	added ('OK')	text/css	etag:%225540682-254-53f18a5b8ad0e-gzip%22	https://osintframework.com/css/arf.css	F:/RAIHAN/HASSAN%20A/ONT%20FRAMEWORK/osintframework.com/css/arf.css	(from https://osintframework.com/)
+11:23:10	126757/126757	---M-Z	200	added ('OK')	application/javascript	etag:%22554066f-1ef25-53bf293300ed4-gzip%22	https://osintframework.com/js/d3.v3.min.js	F:/RAIHAN/HASSAN%20A/ONT%20FRAMEWORK/osintframework.com/js/d3.v3.min.js	(from https://osintframework.com/)
+11:23:10	4298/4298	---M-Z	200	added ('OK')	application/javascript	etag:%2255406e8-10ca-5467d6a09976b-gzip%22	https://osintframework.com/js/arf.js	F:/RAIHAN/HASSAN%20A/ONT%20FRAMEWORK/osintframework.com/js/arf.js	(from https://osintframework.com/)
